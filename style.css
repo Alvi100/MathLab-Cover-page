@@ -1,0 +1,67 @@
+body{
+  margin: 5px 5px;
+  box-sizing: border-box;
+  padding: 0;
+  border: 5px double black;
+}
+
+#logo{
+  margin:20px auto;
+  width: 200px;
+  max-height: 300px;
+  display: block;
+  
+}
+
+.container h1{
+  text-align:center;
+  margin:0;
+}
+
+.mid{
+ padding-bottom: 15px;
+}
+
+.mid h2{
+  text-align:center;
+  line-height:1.5;
+}
+
+.my{
+  margin-top: 80px;
+}
+
+.my h3{
+  text-align: center;
+  margin:8px;
+  padding: 5px;
+  font-size: x-large;
+  line-height:1.8;
+}
+
+.my p{
+  display: inline;
+}
+
+.my button{
+  font-weight:500;
+  color: white;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+
+.print{
+ display:inline;
+ 
+}
+
+.print button {
+  background-color: blue;
+  color: white;
+  font-weight: 500;
+  margin:160px 10px 0px;
+  border:1px solid white;
+  border-radius:5px;
+  padding: 10px 5px;
+}
