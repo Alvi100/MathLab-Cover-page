@@ -1,7 +1,6 @@
 function myFunction(){
    document.getElementById("name").innerHTML= prompt("Enter Your Name: [ max-22 Character ] ");
    document.getElementById("roll").innerHTML= prompt("Enter Your Roll: [ last 2 or 3 numbers ] ");
-   document.getElementById("reg").innerHTML= prompt("Enter Your DU_Registration No: ");
    document.getElementById("sname").style.display="none";
    
 }
